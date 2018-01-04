@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.16)  3 JAN 2018 21:31
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.16)  3 JAN 2018 22:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -776,9 +776,8 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 96.
-\c@colorCounter=\count277
-\g__fontspec_family_Roboto_int=\count278
-\g__fontspec_family_SourceSansPro_int=\count279
+\g__fontspec_family_Roboto_int=\count277
+\g__fontspec_family_SourceSansPro_int=\count278
 )
 (/usr/share/texmf-dist/tex/latex/import/import.sty
 Package: import 2009/03/23  v 5.1
@@ -847,7 +846,7 @@ LaTeX Info: Redefining \selectfont on input line 79.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\g__fontspec_family_latinmodern-math.otf_int=\count280
+\g__fontspec_family_latinmodern-math.otf_int=\count279
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 79.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -888,7 +887,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count281
+\c@section@level=\count280
 )
 LaTeX Info: Redefining \ref on input line 79.
 LaTeX Info: Redefining \pageref on input line 79.
@@ -911,7 +910,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.97679pt on input line 2.
 
-Overfull \hbox (11.17381pt too wide) in alignment at lines 2--12
+Overfull \hbox (11.17381pt too wide) in alignment at lines 2--13
 [] [] 
  []
 
@@ -919,41 +918,36 @@ Overfull \hbox (11.17381pt too wide) in alignment at lines 2--12
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 73.
+t line 74.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 73.
+t line 74.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 73.
+(Font)              scaled to size 10.00015pt on input line 74.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 73.
+(Font)              scaled to size 7.0001pt on input line 74.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 73.
+(Font)              scaled to size 5.00008pt on input line 74.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 73.
+(Font)              scaled to size 9.99985pt on input line 74.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 73.
+(Font)              scaled to size 6.9999pt on input line 74.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 73.
+(Font)              scaled to size 4.99992pt on input line 74.
 
-Overfull \hbox (16.78716pt too wide) in paragraph at lines 73--73
+Overfull \hbox (16.78716pt too wide) in paragraph at lines 74--74
  [] 
  []
 
 
-Overfull \hbox (16.78716pt too wide) in paragraph at lines 73--73
- [] 
- []
-
-
-Overfull \hbox (16.78716pt too wide) in paragraph at lines 73--73
+Overfull \hbox (16.78716pt too wide) in paragraph at lines 74--74
  [] 
  []
 
 ) (./resume/experience.tex [1
 
-]) (./resume/honors.tex [2]) (./resume/writing.tex)
+]) (./resume/writing.tex [2])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
  [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
@@ -962,11 +956,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 25246 strings out of 493010
- 455421 string characters out of 6140133
- 664660 words of memory out of 5000000
- 28970 multiletter control sequences out of 15000+600000
- 533288 words of font info for 89 fonts, out of 8000000 for 9000
+ 25243 strings out of 493010
+ 455492 string characters out of 6140133
+ 667636 words of memory out of 5000000
+ 28969 multiletter control sequences out of 15000+600000
+ 533296 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  47i,19n,72p,10427b,620s stack positions out of 5000i,500n,10000p,200000b,80000s
 

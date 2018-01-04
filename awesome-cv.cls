@@ -153,22 +153,32 @@
 \definecolor{awesome-darknight}{HTML}{131A28}
 \colorlet{awesome}{awesome-red}
 
+% Boolean value to switch section color highlighting
+\newbool{acvSectionColorHighlight}
+\setbool{acvSectionColorHighlight}{true}
+
 % Awesome section color
-\newcounter{colorCounter}
-\def\@sectioncolor{%
-  {%
-    \color{%
-      \ifcase\value{colorCounter}%
-        awesome\or%
-        awesome\or%
-        awesome\or%
-        awesome\or%
-        awesome\else%
-        awesome\fi%
-    }
-  }%
-  \stepcounter{colorCounter}%
-}
+\def\@sectioncolor#1#2#3{%
+	  \ifbool{acvSectionColorHighlight}{{\color{awesome}#1#2#3}}{#1#2#3}%
+  }
+
+
+%% Awesome section color
+%\newcounter{colorCounter}
+%\def\@sectioncolor{%
+%  {%
+%    \color{%
+%      \ifcase\value{colorCounter}%
+%        awesome\or%
+%        awesome\or%
+%        awesome\or%
+%        awesome\or%
+%        awesome\else%
+%        awesome\fi%
+%    }
+%  }%
+%  \stepcounter{colorCounter}%
+%}
 
 
 %-------------------------------------------------------------------------------
