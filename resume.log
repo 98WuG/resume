@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2018.8.25)  25 AUG 2018 18:15
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2018.8.25)  28 AUG 2018 20:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -823,11 +823,11 @@ LaTeX Info: Redefining \selectfont on input line 79.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
-* v-part:(T,H,B)=(42.67912pt, 695.38536pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=500.484pt
-* \textheight=695.38536pt
+* \textheight=709.61174pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
 * \topmargin=-66.59087pt
@@ -926,7 +926,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.97679pt on input line 2.
 
-Overfull \hbox (11.17381pt too wide) in alignment at lines 2--13
+Overfull \hbox (11.17381pt too wide) in alignment at lines 2--16
 [] [] 
  []
 
@@ -934,25 +934,25 @@ Overfull \hbox (11.17381pt too wide) in alignment at lines 2--13
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 89.
+t line 99.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 89.
+t line 99.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 89.
+(Font)              scaled to size 10.00015pt on input line 99.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 89.
+(Font)              scaled to size 7.0001pt on input line 99.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 89.
+(Font)              scaled to size 5.00008pt on input line 99.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 89.
+(Font)              scaled to size 9.99985pt on input line 99.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 89.
+(Font)              scaled to size 6.9999pt on input line 99.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 89.
+(Font)              scaled to size 4.99992pt on input line 99.
 
-Overfull \hbox (16.78716pt too wide) in paragraph at lines 89--89
+Overfull \hbox (16.78716pt too wide) in paragraph at lines 99--99
  [] 
  []
 
@@ -971,7 +971,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  25501 strings out of 492970
  461438 string characters out of 6139408
- 673255 words of memory out of 5000000
+ 675273 words of memory out of 5000000
  29288 multiletter control sequences out of 15000+600000
  533224 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
